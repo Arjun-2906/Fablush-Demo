@@ -1,14 +1,14 @@
 const products = [
-  { id: 1, name: "Fablush Nightwear Green", price: 1999, image: "images/FB5008-GRN_107fae63-7b44-41cb-91cb-d19c3a2db080.webp" },
-  { id: 2, name: "Fablush Nightwear Pink", price: 1999, image: "images/FB5008-PK_2_f8f37617-d9e7-42e8-9250-504efdc4f072.webp" },
-  { id: 3, name: "Fablush Nightwear Sky", price: 1999, image: "images/FB5008-SK_1_b32c3c1c-dd89-4c8e-9b04-232a8ba0da24.webp" },
-  { id: 4, name: "Fablush D-Grey", price: 1999, image: "images/FB34002-DGY_1_014d56c5-c132-47a0-9089-08628d986ab6.webp" },
-  { id: 5, name: "Fablush D-Pink", price: 1999, image: "images/FB14117-A_2_6d3a709d-193f-4e35-93d3-c8eabd348bd0.webp" },
-  { id: 6, name: "Fablush D-Blue", price: 1999, image: "images/FB14117-B_1_2_a1a55106-ef38-4efb-9848-f4d40028caba.webp" },
-  { id: 7, name: "Fablush Black", price: 1999, image: "images/FB15102-A_2_68edd00a-a5f2-4955-9aa1-14c1cba2481d.webp" },
-  { id: 8, name: "Fablush Pink", price: 1999, image: "images/FB15102-B_1_e84ce321-8345-4adc-97e4-c2a755850ad6.webp" },
-  { id: 9, name: "Fablush Silver", price: 1999, image: "images/FB30001-GRN_1_a9ad0b89-c4ae-43c1-9380-ebd4f7f0579f.webp" },
-  { id: 10, name: "Fablush Peach", price: 1999, image: "images/FB30001-PEACH_1_67664557-9221-4dfb-988c-db0e70a158c8.webp" },
+  { id: 1, name: "Fablush Nightwear Green", price: 1599, image: "images/FB5008-GRN_107fae63-7b44-41cb-91cb-d19c3a2db080.webp" },
+  { id: 2, name: "Fablush Nightwear Pink", price: 1699, image: "images/FB5008-PK_2_f8f37617-d9e7-42e8-9250-504efdc4f072.webp" },
+  { id: 3, name: "Fablush Nightwear Sky", price: 1499, image: "images/FB5008-SK_1_b32c3c1c-dd89-4c8e-9b04-232a8ba0da24.webp" },
+  { id: 4, name: "Fablush D-Grey", price: 1899, image: "images/FB34002-DGY_1_014d56c5-c132-47a0-9089-08628d986ab6.webp" },
+  { id: 5, name: "Fablush D-Pink", price: 1599, image: "images/FB14117-A_2_6d3a709d-193f-4e35-93d3-c8eabd348bd0.webp" },
+  { id: 6, name: "Fablush D-Blue", price: 1699, image: "images/FB14117-B_1_2_a1a55106-ef38-4efb-9848-f4d40028caba.webp" },
+  { id: 7, name: "Fablush Black", price: 1599, image: "images/FB15102-A_2_68edd00a-a5f2-4955-9aa1-14c1cba2481d.webp" },
+  { id: 8, name: "Fablush Pink", price: 1899, image: "images/FB15102-B_1_e84ce321-8345-4adc-97e4-c2a755850ad6.webp" },
+  { id: 9, name: "Fablush Silver", price: 1799, image: "images/FB30001-GRN_1_a9ad0b89-c4ae-43c1-9380-ebd4f7f0579f.webp" },
+  { id: 10, name: "Fablush Peach", price: 1899, image: "images/FB30001-PEACH_1_67664557-9221-4dfb-988c-db0e70a158c8.webp" },
 ];
 
 // Initialize cart from localStorage
